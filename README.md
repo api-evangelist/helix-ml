@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HelixML is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://helix.ml/
+HelixML provides a platform for agent virtualization, enabling software teams to run isolated agent desktops on their own infrastructure. Their offerings include Helix GTM for sales teams, Helix Cyber for penetration testing, and Helix Recruiter to streamline hiring. The platform runs on Helix Cloud, Kubernetes, and Linux/macOS, emphasizing security with SOC 2, ISO 27001 compliance, and support for private AI platforms. It targets enterprises seeking to reduce toil, improve security, and accelerate development through scalable, isolated environments.
+
+**Areas:** Company · AI · Agent Virtualization · Security · Cloud
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://helix.ml/)
+- [Documentation](https://helix.ml/docs)
+- [Getting started](https://helix.ml/docs/quickstart)
+- [Pricing](https://helix.ml/pricing)
+- [Support](https://helix.ml/contact)
+- [Blog](https://helix.ml/blog)
+- [Terms of service](https://helix.ml/terms-of-service)
+- [Privacy policy](https://helix.ml/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/helix-ml/](https://apis.io/providers/helix-ml/).
